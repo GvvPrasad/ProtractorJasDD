@@ -1,0 +1,31 @@
+{
+  "name": "jasminedatadrivenframework",
+  "version": "1.0.0",
+  "description": "automation testing framework",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "Protractor": "^7.0.0",
+    "jasmine": "^3.6.4",
+    "typescript": "^4.1.3",
+    "webdriver-manager": "^12.1.8"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GvvPrasad/ProtractorJasDD.git"
+  },
+  "author": "prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GvvPrasad/ProtractorJasDD/issues"
+  },
+  "homepage": "https://github.com/GvvPrasad/ProtractorJasDD#readme"
+}
